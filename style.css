@@ -1,7 +1,37 @@
 h1 {
-    color: red;
+    color: orange;
+    text-align: center;
+    font-size: 42px;
+}
+h2{
+    text-align: center;
+    color: white;
+
 }
 
 body {
     background-color: blue;
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: 200px;
 }
+img{ 
+    
+    width: 200px;
+    border: 5px solid orange;
+    justify-content: center;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+ul{
+    text-align: center;
+    color: white;
+    list-style-position: inside;
+}
+ a{ 
+    box-decoration-break: 2px;
+    color: orange;
+    font-weight: 200;
+ }
